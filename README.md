@@ -1,5 +1,5 @@
-# CodeAlpha_StudentGradeTracker
-# CodeAlpha_StudentGradeTracker
+### CodeAlpha_StudentGradeTracker
+
 
 This is a **Java console-based project** for managing student grades.
 
