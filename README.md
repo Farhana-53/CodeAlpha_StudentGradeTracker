@@ -17,14 +17,10 @@ Open the project in IntelliJ IDEA (or any Java IDE).
 
 Run the Main.java file.
 
-Example Output:
-markdown
-Copy code
--------------------------------------------------------------
-Name      | English | Physics | Maths   | Chemistry | Average
--------------------------------------------------------------
-ALI       | 78.00   | 85.00   | 90.00   | 88.00     | 85.25
-SARA      | 60.00   | 55.00   | 65.00   | 70.00     | 62.50
--------------------------------------------------------------
-Highest Marks: ALI (85.25)
-Lowest Marks: SARA (62.50)
+## Example Output
+
+| Name | English | Physics | Maths | Chemistry | Average |
+|------|--------|--------|-------|-----------|--------|
+| ALI  | 78.00  | 85.00  | 90.00 | 88.00     | 85.25  |
+| SARA | 60.00  | 55.00  | 65.00 | 70.00     | 62.50  |
+
