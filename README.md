@@ -24,3 +24,5 @@ Run the Main.java file.
 | ALI  | 78.00  | 85.00  | 90.00 | 88.00     | 85.25  |
 | SARA | 60.00  | 55.00  | 65.00 | 70.00     | 62.50  |
 
+Highest Marks: Ali (81.25)
+Lowest Marks: Sara (67.5)
